@@ -1,0 +1,27 @@
+body
+{
+    background-color: black;
+    text-decoration-color: white;
+}
+title
+{
+    background-color: darkgray;
+    text-decoration-color: white;
+    font-weight: bold;
+}
+table
+{
+    width: 100%;
+}
+th
+{
+    text-decoration: solid;
+    color:white;
+    font-weight: bold;
+}
+h1
+{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
