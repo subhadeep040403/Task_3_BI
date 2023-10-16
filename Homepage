@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>NETFIX</title>
+<link rel="stylesheet" href="style_net.css">
+</head>
+<body>
+<h1>NETFIX</h1>
+<table>
+<tr>
+<th>Home</th>
+<th>Category</th>
+<th>Language</th>
+<th>Account</th>
+<th>Sign In</th>
+</tr>
+</table>
+</body>
+</html>
